@@ -1,0 +1,59 @@
+[
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "role": "donor",
+      "location": "123 Main St, City, State, ZIP",
+      "profileImage": "https://example.com/john.jpg",
+      "phone": "123-456-7890",
+      "preferences": {
+        "pickupTimes": ["morning", "afternoon"]
+      },
+      "ratings": {
+        "averageRating": 4.5,
+        "reviews": [
+          {
+            "reviewerId": "2",
+            "rating": 5,
+            "comment": "Great donor! Very generous."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "role": "recipient",
+      "location": "456 Elm St, City, State, ZIP",
+      "profileImage": "https://example.com/jane.jpg",
+      "phone": "987-654-3210",
+      "preferences": {
+        "dietaryRestrictions": ["vegetarian"],
+        "pickupTimes": ["evening"]
+      },
+      "ratings": {
+        "averageRating": 4.8,
+        "reviews": [
+          {
+            "reviewerId": "1",
+            "rating": 5,
+            "comment": "Punctual and polite recipient."
+          }
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "role": "admin",
+      "location": "",
+      "profileImage": "https://example.com/admin.jpg",
+      "phone": "",
+      "preferences": {},
+      "ratings": {}
+    }
+  ]
+  

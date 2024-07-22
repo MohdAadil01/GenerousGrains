@@ -1,0 +1,29 @@
+[
+    {
+      "id": "1",
+      "donorId": "1",
+      "title": "Surplus Bread",
+      "description": "Freshly baked bread, available for pickup.",
+      "quantity": "10 loaves",
+      "expiryDate": "2024-07-20",
+      "pickupLocation": "123 Main St, City, State, ZIP",
+      "status": "available",
+      "image": "https://example.com/bread.jpg",
+      "pickupInstructions": "Please call upon arrival.",
+      "tags": ["perishable", "bread"]
+    },
+    {
+      "id": "2",
+      "donorId": "1",
+      "title": "Canned Vegetables",
+      "description": "Assorted canned vegetables, available for pickup.",
+      "quantity": "20 cans",
+      "expiryDate": "2024-08-15",
+      "pickupLocation": "123 Main St, City, State, ZIP",
+      "status": "available",
+      "image": "https://example.com/vegetables.jpg",
+      "pickupInstructions": "Pick up from the front porch.",
+      "tags": ["non-perishable", "canned"]
+    }
+  ]
+  

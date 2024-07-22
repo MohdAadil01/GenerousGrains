@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "userId": "1",
+      "message": "Jane Smith has requested your Surplus Bread donation.",
+      "type": "new_request",
+      "date": "2024-07-18",
+      "read": false
+    },
+    {
+      "id": "2",
+      "userId": "2",
+      "message": "Your request for Canned Vegetables has been confirmed.",
+      "type": "request_update",
+      "date": "2024-07-18",
+      "read": true
+    },
+    {
+      "id": "3",
+      "userId": "2",
+      "message": "Reminder: Pick up your Canned Vegetables donation today.",
+      "type": "pickup_reminder",
+      "date": "2024-07-20",
+      "read": false
+    }
+  ]
+  

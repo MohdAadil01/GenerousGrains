@@ -1,0 +1,21 @@
+[
+    {
+      "id": "1",
+      "donationId": "1",
+      "recipientId": "2",
+      "status": "pending",
+      "requestDate": "2024-07-18",
+      "pickupConfirmed": false,
+      "donorResponse": "Sure, you can pick it up anytime today."
+    },
+    {
+      "id": "2",
+      "donationId": "2",
+      "recipientId": "2",
+      "status": "confirmed",
+      "requestDate": "2024-07-18",
+      "pickupConfirmed": true,
+      "donorResponse": "Your request is confirmed. Please come by this evening."
+    }
+  ]
+  
